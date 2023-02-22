@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "image": "https://api.lorem.space/image/watch?w=640&h=480&r=2421",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit adfsfsdf",
+    "bg": "#eaebed",
+    "imgBg": "rgb(236 236 236)"
+  },
+
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=7735",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit adfsfsdf",
+    "bg": "rgb(247 247 247)",
+    "imgBg": "rgb(242 242 242)"
+  }
+]

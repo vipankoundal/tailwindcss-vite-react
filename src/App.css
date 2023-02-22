@@ -1,0 +1,9 @@
+.border-radius1 {
+  clip-path: circle(66.3% at 34% 52%);
+}
+
+.swiper-pagination-bullet-active {
+  width: 25px;
+  height: 7px;
+  border-radius: 5px;
+}

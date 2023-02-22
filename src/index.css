@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu__list {
+    @apply px-6;
+}
+
+.menu-active {
+    @apply flex !important;
+}
+
+.swiper-button-prev {
+    @apply bg-blue-600 p-6 text-cyan-50;
+}
+
+.swiper-button-prev::after {
+    @apply text-xl;
+}
+
+.swiper-button-next {
+    @apply bg-blue-600 p-6 text-cyan-50;
+}
+
+.swiper-button-next::after {
+    @apply text-xl;
+}
+
+section {
+    @apply py-20 px-20;
+}
+
+.swiper-pagination {
+    @apply bottom-0 !important;
+}
+
+.add-button {
+    @apply bg-blue-600 px-4 py-1 rounded-full text-white w-[120px] text-center
+}
+
+.subscribe-button {
+    @apply bg-blue-600 px-4 py-1 rounded-full text-white w-[120px] text-center
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 10,
+    "title": "Tasty Rubber Salad",
+    "price": 201,
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "images": [
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=376",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=3339",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=2904"
+    ],
+    "creationAt": "2023-02-17T21:06:05.000Z",
+    "updatedAt": "2023-02-17T21:06:05.000Z",
+    "category": {
+      "id": 1,
+      "name": "Nueva categoria",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2023-02-17T21:06:05.000Z",
+      "updatedAt": "2023-02-18T15:34:11.000Z"
+    }
+  }
+]
